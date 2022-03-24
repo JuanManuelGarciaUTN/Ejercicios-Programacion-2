@@ -1,0 +1,16 @@
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\bin\Debug\net5.0\Clase1 - Ejercicio2.exe
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\bin\Debug\net5.0\Clase1 - Ejercicio2.deps.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\bin\Debug\net5.0\Clase1 - Ejercicio2.runtimeconfig.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\bin\Debug\net5.0\Clase1 - Ejercicio2.runtimeconfig.dev.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\bin\Debug\net5.0\Clase1 - Ejercicio2.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\bin\Debug\net5.0\Clase1 - Ejercicio2.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\Clase1 - Ejercicio2.csproj.AssemblyReference.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\Clase1 - Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\Clase1 - Ejercicio2.AssemblyInfoInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\Clase1 - Ejercicio2.AssemblyInfo.cs
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\Clase1 - Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\Clase1 - Ejercicio2.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\refint\Clase1 - Ejercicio2.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\Clase1 - Ejercicio2.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\Clase1 - Ejercicio2.genruntimeconfig.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio2\Clase1 - Ejercicio2\obj\Debug\net5.0\ref\Clase1 - Ejercicio2.dll
