@@ -12,39 +12,44 @@ namespace Clase1___Ejercicio3
 
             do
             {
-                Console.Write("Ingrese un numero o \"salir\": ");
-                inputUsuario = Console.ReadLine(); 
-
-                if(int.TryParse(inputUsuario, out numeroIngresado) == false)
+                do
                 {
-                    inputUsuario = inputUsuario.ToLower();
+                    Console.Write("Ingrese un numero o \"salir\": ");
+                    inputUsuario = Console.ReadLine();
 
-                    if(inputUsuario == "salir")
+                    if (int.TryParse(inputUsuario, out numeroIngresado) == false)
                     {
-                        Environment.Exit(0);
+                        inputUsuario = inputUsuario.ToLower().Trim();
+
+                        if (inputUsuario == "salir")
+                        {
+                            Environment.Exit(0);
+                        }
+
+                        Console.WriteLine("ERROR. Valor invalido \n");
+                    }
+                    else
+                    {
+                        valorInvalido = false;
                     }
 
-                    Console.WriteLine("ERROR. Valor invalido \n");
-                }
-                else
+                } while (valorInvalido);
+
+                Console.WriteLine("Los numeros primos hasta {0} son:", numeroIngresado);
+
+                for (int i = 1; i < numeroIngresado; i++)
                 {
-                    valorInvalido = false; 
+                    if (EsPrimo(i))
+                    {
+                        Console.WriteLine(i);
+                    }
                 }
 
-            } while (valorInvalido);
+                Console.Write("\nSi desea calcular una nueva lista de primos ingrese \"si\": ");
+                inputUsuario = Console.ReadLine();
+                inputUsuario = inputUsuario.ToLower().Trim();
 
-            Console.WriteLine("Los numeros primos hasta {0} son:", numeroIngresado);
-
-            for (int i = 1; i < numeroIngresado; i++)
-            {
-                if( EsPrimo(i))
-                {
-                    Console.WriteLine(i);
-                }
-            }
-
-            Console.Write("\nPresione una tecla para finalizar... ");
-            Console.ReadKey();
+            } while (inputUsuario == "si");
         }
 
         static bool EsPrimo(int numero)

@@ -1,0 +1,16 @@
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\bin\Debug\net5.0\Clase1 - Ejercicio8.exe
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\bin\Debug\net5.0\Clase1 - Ejercicio8.deps.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\bin\Debug\net5.0\Clase1 - Ejercicio8.runtimeconfig.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\bin\Debug\net5.0\Clase1 - Ejercicio8.runtimeconfig.dev.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\bin\Debug\net5.0\Clase1 - Ejercicio8.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\bin\Debug\net5.0\Clase1 - Ejercicio8.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\Clase1 - Ejercicio8.csproj.AssemblyReference.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\Clase1 - Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\Clase1 - Ejercicio8.AssemblyInfoInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\Clase1 - Ejercicio8.AssemblyInfo.cs
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\Clase1 - Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\Clase1 - Ejercicio8.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\refint\Clase1 - Ejercicio8.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\Clase1 - Ejercicio8.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\Clase1 - Ejercicio8.genruntimeconfig.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 1\Clase1 - Ejercicio8\Clase1 - Ejercicio8\obj\Debug\net5.0\ref\Clase1 - Ejercicio8.dll
