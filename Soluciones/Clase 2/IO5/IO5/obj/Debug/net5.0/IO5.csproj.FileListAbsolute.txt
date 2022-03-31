@@ -1,0 +1,16 @@
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\bin\Debug\net5.0\IO5.exe
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\bin\Debug\net5.0\IO5.deps.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\bin\Debug\net5.0\IO5.runtimeconfig.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\bin\Debug\net5.0\IO5.runtimeconfig.dev.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\bin\Debug\net5.0\IO5.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\bin\Debug\net5.0\IO5.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\IO5.csproj.AssemblyReference.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\IO5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\IO5.AssemblyInfoInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\IO5.AssemblyInfo.cs
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\IO5.csproj.CoreCompileInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\IO5.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\refint\IO5.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\IO5.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\IO5.genruntimeconfig.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO5\IO5\obj\Debug\net5.0\ref\IO5.dll

@@ -1,0 +1,12 @@
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\bin\Debug\net5.0\BibliotecaDeMetodos.deps.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\bin\Debug\net5.0\BibliotecaDeMetodos.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\bin\Debug\net5.0\BibliotecaDeMetodos.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\BibliotecaDeMetodos.csproj.AssemblyReference.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\BibliotecaDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\BibliotecaDeMetodos.AssemblyInfoInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\BibliotecaDeMetodos.AssemblyInfo.cs
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\BibliotecaDeMetodos.csproj.CoreCompileInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\BibliotecaDeMetodos.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\refint\BibliotecaDeMetodos.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\BibliotecaDeMetodos.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO1\BibliotecaDeMetodos\obj\Debug\net5.0\ref\BibliotecaDeMetodos.dll

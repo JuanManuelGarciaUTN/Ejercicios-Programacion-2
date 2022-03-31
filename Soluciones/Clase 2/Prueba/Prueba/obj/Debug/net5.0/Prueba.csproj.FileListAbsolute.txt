@@ -1,0 +1,5 @@
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\Prueba\Prueba\obj\Debug\net5.0\Prueba.csproj.AssemblyReference.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\Prueba\Prueba\obj\Debug\net5.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\Prueba\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfoInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\Prueba\Prueba\obj\Debug\net5.0\Prueba.AssemblyInfo.cs
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\Prueba\Prueba\obj\Debug\net5.0\Prueba.csproj.CoreCompileInputs.cache

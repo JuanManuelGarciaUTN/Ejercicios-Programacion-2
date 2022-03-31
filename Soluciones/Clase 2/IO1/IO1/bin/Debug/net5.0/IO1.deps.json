@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IO1/1.0.0": {
+        "dependencies": {
+          "BibliotecaDeMetodos": "1.0.0"
+        },
+        "runtime": {
+          "IO1.dll": {}
+        }
+      },
+      "BibliotecaDeMetodos/1.0.0": {
+        "runtime": {
+          "BibliotecaDeMetodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IO1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDeMetodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
