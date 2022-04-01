@@ -1,0 +1,16 @@
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\IO3.csproj.AssemblyReference.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\IO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\IO3.AssemblyInfoInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\IO3.AssemblyInfo.cs
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\IO3.csproj.CoreCompileInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\bin\Debug\net5.0\IO3.exe
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\bin\Debug\net5.0\IO3.deps.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\bin\Debug\net5.0\IO3.runtimeconfig.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\bin\Debug\net5.0\IO3.runtimeconfig.dev.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\bin\Debug\net5.0\IO3.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\bin\Debug\net5.0\IO3.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\IO3.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\refint\IO3.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\IO3.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\IO3.genruntimeconfig.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO3\IO3\obj\Debug\net5.0\ref\IO3.dll

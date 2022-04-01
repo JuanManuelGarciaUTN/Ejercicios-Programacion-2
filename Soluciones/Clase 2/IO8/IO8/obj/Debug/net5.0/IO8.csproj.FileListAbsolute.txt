@@ -1,0 +1,16 @@
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\IO8.csproj.AssemblyReference.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\IO8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\IO8.AssemblyInfoInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\IO8.AssemblyInfo.cs
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\IO8.csproj.CoreCompileInputs.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\bin\Debug\net5.0\IO8.exe
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\bin\Debug\net5.0\IO8.deps.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\bin\Debug\net5.0\IO8.runtimeconfig.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\bin\Debug\net5.0\IO8.runtimeconfig.dev.json
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\bin\Debug\net5.0\IO8.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\bin\Debug\net5.0\IO8.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\IO8.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\refint\IO8.dll
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\IO8.pdb
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\IO8.genruntimeconfig.cache
+C:\Todo\UTN\Programacion II\Soluciones\Clase 2\IO8\IO8\obj\Debug\net5.0\ref\IO8.dll
